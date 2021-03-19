@@ -1,2 +1,2 @@
 # AWS-cloud-assignments
-All assignments includes screenshots after certain tasks are performed. 
+All assignments includes screenshots after performing certain tasks. 
