@@ -1,2 +1,2 @@
 # AWS-Cloud-Deployment
-All assignments includes screenshots after performing certain tasks. 
+All deployments includes screenshots after performing certain tasks. 
